@@ -523,9 +523,7 @@
     <transponder frequency="11806000" symbol_rate="4500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11812000" symbol_rate="2500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11815000" symbol_rate="4500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="11864000" symbol_rate="4500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11872000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="11880000" symbol_rate="4500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11886000" symbol_rate="1600000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="11888000" symbol_rate="1400000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11894000" symbol_rate="2500000" polarization="0" fec_inner="3" system="1" modulation="2"/>

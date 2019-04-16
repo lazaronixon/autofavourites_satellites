@@ -550,6 +550,7 @@
     <transponder frequency="3941000" symbol_rate="3617000" polarization="1" fec_inner="0" system="0" modulation="1"/>
     <transponder frequency="3964000" symbol_rate="10000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3976000" symbol_rate="2550000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3980000" symbol_rate="3413000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3990000" symbol_rate="4800000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4002000" symbol_rate="10000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4014000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2"/>

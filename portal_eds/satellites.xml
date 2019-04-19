@@ -997,14 +997,14 @@
     <transponder frequency="11175000" symbol_rate="27900000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="12060000" symbol_rate="27900000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="12080000" symbol_rate="29900000" polarization="1" fec_inner="7" system="1" modulation="2"/>
-    <transponder frequency="12120000" symbol_rate="29900000" polarization="1" fec_inner="3" system="0" modulation="1"/>
+    <transponder frequency="12120000" symbol_rate="29900000" polarization="1" fec_inner="4" system="0" modulation="1"/>
     <transponder frequency="12160000" symbol_rate="29900000" polarization="1" fec_inner="7" system="1" modulation="2"/>
     <transponder frequency="12220000" symbol_rate="29900000" polarization="0" fec_inner="4" system="0" modulation="1"/>
     <transponder frequency="12260000" symbol_rate="29900000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="12280000" symbol_rate="29900000" polarization="1" fec_inner="7" system="1" modulation="2"/>
     <transponder frequency="12300000" symbol_rate="29900000" polarization="0" fec_inner="2" system="1" modulation="2"/>
-    <transponder frequency="12320000" symbol_rate="29900000" polarization="1" fec_inner="3" system="0" modulation="1"/>
-    <transponder frequency="12340000" symbol_rate="29900000" polarization="0" fec_inner="3" system="0" modulation="1"/>
+    <transponder frequency="12320000" symbol_rate="29900000" polarization="1" fec_inner="4" system="0" modulation="1"/>
+    <transponder frequency="12340000" symbol_rate="29900000" polarization="0" fec_inner="4" system="0" modulation="1"/>
     <transponder frequency="12360000" symbol_rate="29900000" polarization="1" fec_inner="7" system="1" modulation="2"/>
     <transponder frequency="12380000" symbol_rate="29900000" polarization="0" fec_inner="4" system="0" modulation="1"/>
     <transponder frequency="12400000" symbol_rate="29900000" polarization="1" fec_inner="7" system="1" modulation="2"/>

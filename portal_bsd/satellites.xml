@@ -66,6 +66,8 @@
     <transponder frequency="3953000" symbol_rate="3250000" polarization="0" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3958000" symbol_rate="1666000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3960000" symbol_rate="6610000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3962000" symbol_rate="7200000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3970000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3992000" symbol_rate="3750000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="4000000" symbol_rate="2500000" polarization="0" fec_inner="2" system="0" modulation="1"/>
     <transponder frequency="4005000" symbol_rate="5000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
@@ -647,6 +649,7 @@
     <transponder frequency="4139000" symbol_rate="4543000" polarization="0" fec_inner="3" system="1" modulation="1"/>
     <transponder frequency="4142000" symbol_rate="3333000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="4155000" symbol_rate="3200000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="4165000" symbol_rate="2500000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="4166000" symbol_rate="3600000" polarization="1" fec_inner="0" system="0" modulation="1"/>
     <transponder frequency="4175000" symbol_rate="3750000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4178000" symbol_rate="2500000" polarization="0" fec_inner="3" system="0" modulation="1"/>

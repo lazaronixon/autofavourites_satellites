@@ -80,7 +80,6 @@
     <transponder frequency="3976000" symbol_rate="5000000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3986000" symbol_rate="19250000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3989000" symbol_rate="5000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3992000" symbol_rate="3750000" polarization="0" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3997000" symbol_rate="3330000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4000000" symbol_rate="2500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4003000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2"/>

@@ -398,7 +398,7 @@
     <transponder frequency="3800000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3803000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3825000" symbol_rate="3750000" polarization="1" fec_inner="7" system="1" modulation="2"/>
-    <transponder frequency="3827000" symbol_rate="7000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3832000" symbol_rate="2222000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3838000" symbol_rate="3600000" polarization="0" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3840000" symbol_rate="7500000" polarization="1" fec_inner="3" system="1" modulation="1"/>
     <transponder frequency="3848000" symbol_rate="2222000" polarization="0" fec_inner="3" system="0" modulation="1"/>
@@ -635,8 +635,8 @@
     <transponder frequency="3912000" symbol_rate="2222000" polarization="0" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="3913000" symbol_rate="2400000" polarization="0" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3917000" symbol_rate="3300000" polarization="0" fec_inner="3" system="0" modulation="1"/>
-    <transponder frequency="3917000" symbol_rate="4602000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3920000" symbol_rate="2400000" polarization="0" fec_inner="7" system="1" modulation="2"/>
+    <transponder frequency="3920000" symbol_rate="7500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3923000" symbol_rate="2080000" polarization="0" fec_inner="7" system="1" modulation="2"/>
     <transponder frequency="3923000" symbol_rate="4600000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3927000" symbol_rate="2000000" polarization="0" fec_inner="7" system="1" modulation="2"/>

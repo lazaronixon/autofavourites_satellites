@@ -153,6 +153,7 @@
     <transponder frequency="3970000" symbol_rate="3333000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3974000" symbol_rate="3200000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3985000" symbol_rate="18333000" polarization="1" fec_inner="4" system="1" modulation="1"/>
+    <transponder frequency="4006000" symbol_rate="5730000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4015000" symbol_rate="5983000" polarization="1" fec_inner="7" system="1" modulation="2"/>
     <transponder frequency="4021000" symbol_rate="3200000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4027000" symbol_rate="7300000" polarization="1" fec_inner="7" system="1" modulation="2"/>

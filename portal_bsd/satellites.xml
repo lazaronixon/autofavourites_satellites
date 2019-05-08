@@ -776,10 +776,7 @@
   <sat name="-650 KA Eutelsat 65 West A" flags="1" position="-652"/>
   <sat name="-670 KU SES 10" flags="1" position="-670">
     <transponder frequency="11480000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
-    <transponder frequency="11550000" symbol_rate="40000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="12038000" symbol_rate="4310000" polarization="0" fec_inner="0" system="1" modulation="2"/>
-    <transponder frequency="12090000" symbol_rate="4444000" polarization="1" fec_inner="0" system="1" modulation="2"/>
-    <transponder frequency="12136000" symbol_rate="4000000" polarization="1" fec_inner="0" system="1" modulation="2"/>
   </sat>
   <sat name="-700 C StarOne C2, StarOne C4" flags="1" position="-700">
     <transponder frequency="3628000" symbol_rate="3000000" polarization="0" fec_inner="3" system="0" modulation="1"/>

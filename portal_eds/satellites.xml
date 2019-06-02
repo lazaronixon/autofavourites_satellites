@@ -235,6 +235,7 @@
     <transponder frequency="12126000" symbol_rate="7200000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="12128000" symbol_rate="4800000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="12132000" symbol_rate="27500000" polarization="0" fec_inner="3" system="0" modulation="1"/>
+    <transponder frequency="12168000" symbol_rate="22459000" polarization="1" fec_inner="3" system="1" modulation="2"/>
   </sat>
   <sat name="-340 C Intelsat 35e" flags="1" position="-340">
     <transponder frequency="4126000" symbol_rate="11000000" polarization="1" fec_inner="1" system="1" modulation="1"/>

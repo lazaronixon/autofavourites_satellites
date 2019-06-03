@@ -1192,6 +1192,7 @@
     <transponder frequency="4196000" symbol_rate="3000000" polarization="0" fec_inner="3" system="0" modulation="1"/>
   </sat>
   <sat name="-1170 KU Eutelsat 117 West A, Eutelsat 117 West B" flags="1" position="-1171">
+    <transponder frequency="11153000" symbol_rate="2500000" polarization="0" fec_inner="0" system="0" modulation="1"/>
     <transponder frequency="11780000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="11800000" symbol_rate="32725000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="11938000" symbol_rate="7200000" polarization="1" fec_inner="3" system="1" modulation="2"/>

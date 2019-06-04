@@ -656,7 +656,7 @@
     <transponder frequency="3967000" symbol_rate="14505000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3970000" symbol_rate="2550000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3972000" symbol_rate="5000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3973000" symbol_rate="5000000" polarization="1" fec_inner="3" system="0" modulation="1"/>
+    <transponder frequency="3973000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3979000" symbol_rate="4937000" polarization="0" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="3980000" symbol_rate="7500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3982000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2"/>

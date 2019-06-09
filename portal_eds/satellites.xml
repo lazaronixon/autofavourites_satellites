@@ -55,6 +55,7 @@
   </sat>
   <sat name="30 C Eutelsat 3B" flags="1" position="30">
     <transponder frequency="3661000" symbol_rate="2900000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3667000" symbol_rate="2270000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3667000" symbol_rate="1547000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3718000" symbol_rate="1917000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3728000" symbol_rate="16835000" polarization="1" fec_inner="7" system="1" modulation="2"/>
@@ -112,10 +113,12 @@
     <transponder frequency="3860000" symbol_rate="1600000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3890000" symbol_rate="2980000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3890000" symbol_rate="30000000" polarization="1" fec_inner="1" system="1" modulation="1"/>
+    <transponder frequency="3893000" symbol_rate="1792000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3895000" symbol_rate="3500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3913000" symbol_rate="8920000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3925000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3957000" symbol_rate="6200000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3990000" symbol_rate="2018000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="4025000" symbol_rate="1457000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4034000" symbol_rate="1042000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="4049000" symbol_rate="23710000" polarization="1" fec_inner="4" system="1" modulation="2"/>

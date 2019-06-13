@@ -670,7 +670,7 @@
     <transponder frequency="10768000" symbol_rate="30000000" polarization="0" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="10768000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="10808000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
-    <transponder frequency="10808000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
+    <transponder frequency="10808000" symbol_rate="17250000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="10848000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="10888000" symbol_rate="28888000" polarization="0" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="10928000" symbol_rate="28888000" polarization="0" fec_inner="3" system="0" modulation="1"/>

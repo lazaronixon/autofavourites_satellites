@@ -820,6 +820,7 @@
     <transponder frequency="3816000" symbol_rate="7500000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3825000" symbol_rate="7500000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3834000" symbol_rate="7500000" polarization="1" fec_inner="2" system="1" modulation="2"/>
+    <transponder frequency="3850000" symbol_rate="1300000" polarization="0" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="3876000" symbol_rate="7500000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3887000" symbol_rate="7500000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3896000" symbol_rate="7500000" polarization="1" fec_inner="2" system="1" modulation="2"/>

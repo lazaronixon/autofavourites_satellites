@@ -1331,7 +1331,7 @@
   <sat name="-1130 C Eutelsat 113 West A" flags="1" position="-1130">
     <transponder frequency="3812000" symbol_rate="6660000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3945000" symbol_rate="4166000" polarization="1" fec_inner="3" system="1" modulation="1"/>
-    <transponder frequency="3953000" symbol_rate="8572000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3954000" symbol_rate="7766000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3979000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3997000" symbol_rate="10835000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4012000" symbol_rate="11600000" polarization="1" fec_inner="2" system="1" modulation="2"/>

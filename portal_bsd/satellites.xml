@@ -496,7 +496,7 @@
   <sat name="-470 C SES 14" flags="1" position="-470">
     <transponder frequency="3790000" symbol_rate="7120000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3804000" symbol_rate="32730000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3833000" symbol_rate="15000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3833000" symbol_rate="15000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3871000" symbol_rate="9600000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3880000" symbol_rate="7200000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3885000" symbol_rate="7500000" polarization="1" fec_inner="3" system="0" modulation="1"/>
@@ -782,6 +782,7 @@
     <transponder frequency="4566000" symbol_rate="5083000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4614000" symbol_rate="2400000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4692000" symbol_rate="3720000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="4698000" symbol_rate="6666000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4712000" symbol_rate="4780000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4770000" symbol_rate="45000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
   </sat>

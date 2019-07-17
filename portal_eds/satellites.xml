@@ -1056,17 +1056,11 @@
     <transponder frequency="11749000" symbol_rate="2560000" polarization="0" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="11754000" symbol_rate="4000000" polarization="0" fec_inner="4" system="0" modulation="1"/>
     <transponder frequency="11757000" symbol_rate="5119000" polarization="0" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="11758000" symbol_rate="2656000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11925000" symbol_rate="6060000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="11940000" symbol_rate="3600000" polarization="1" fec_inner="3" system="1" modulation="1"/>
-    <transponder frequency="11943000" symbol_rate="7400000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="11962000" symbol_rate="3332000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="11981000" symbol_rate="3333000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11986000" symbol_rate="7200000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11991000" symbol_rate="7500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11994000" symbol_rate="7200000" polarization="1" fec_inner="3" system="0" modulation="1"/>
-    <transponder frequency="12010000" symbol_rate="3600000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="12019000" symbol_rate="3333000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="12045000" symbol_rate="3900000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="12050000" symbol_rate="4400000" polarization="1" fec_inner="4" system="0" modulation="1"/>
     <transponder frequency="12055000" symbol_rate="2963000" polarization="0" fec_inner="3" system="0" modulation="1"/>

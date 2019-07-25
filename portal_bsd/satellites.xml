@@ -108,6 +108,7 @@
     <transponder frequency="3890000" symbol_rate="2980000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3892000" symbol_rate="1792000" polarization="1" fec_inner="5" system="0" modulation="1"/>
     <transponder frequency="3895000" symbol_rate="3500000" polarization="1" fec_inner="2" system="1" modulation="2"/>
+    <transponder frequency="3902000" symbol_rate="4250000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3910000" symbol_rate="8667000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3925000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3961000" symbol_rate="4168000" polarization="1" fec_inner="3" system="1" modulation="2"/>

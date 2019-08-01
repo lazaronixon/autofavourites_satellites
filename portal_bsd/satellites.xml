@@ -297,7 +297,7 @@
     <transponder frequency="4042000" symbol_rate="2220000" polarization="1" fec_inner="2" system="0" modulation="1"/>
     <transponder frequency="4047000" symbol_rate="5900000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="4055000" symbol_rate="7500000" polarization="1" fec_inner="3" system="0" modulation="1"/>
-    <transponder frequency="4066000" symbol_rate="12500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="4060000" symbol_rate="20000000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="4072000" symbol_rate="3330000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4086000" symbol_rate="15000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="4095000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="2"/>
@@ -508,23 +508,6 @@
     <transponder frequency="11825000" symbol_rate="7500000" polarization="0" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="11928000" symbol_rate="9875000" polarization="0" fec_inner="0" system="1" modulation="2"/>
   </sat>
-  <sat name="-500 C Intelsat 29E" flags="1" position="-500">
-    <transponder frequency="3711000" symbol_rate="10100000" polarization="0" fec_inner="1" system="1" modulation="1"/>
-    <transponder frequency="3711000" symbol_rate="4166000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3742000" symbol_rate="3540000" polarization="1" fec_inner="0" system="1" modulation="2"/>
-    <transponder frequency="3767000" symbol_rate="2180000" polarization="1" fec_inner="0" system="0" modulation="1"/>
-    <transponder frequency="3858000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3871000" symbol_rate="2221000" polarization="1" fec_inner="0" system="0" modulation="1"/>
-    <transponder frequency="3890000" symbol_rate="3443000" polarization="1" fec_inner="0" system="0" modulation="1"/>
-    <transponder frequency="3897000" symbol_rate="3335000" polarization="1" fec_inner="0" system="0" modulation="1"/>
-    <transponder frequency="3901000" symbol_rate="7500000" polarization="1" fec_inner="0" system="0" modulation="1"/>
-    <transponder frequency="3913000" symbol_rate="5000000" polarization="1" fec_inner="0" system="1" modulation="2"/>
-    <transponder frequency="3934000" symbol_rate="3413000" polarization="1" fec_inner="4" system="1" modulation="2"/>
-    <transponder frequency="4080000" symbol_rate="5000000" polarization="1" fec_inner="0" system="1" modulation="2"/>
-    <transponder frequency="4138000" symbol_rate="3617000" polarization="1" fec_inner="3" system="0" modulation="1"/>
-  </sat>
-  <sat name="-500 KU Intelsat 29E" flags="1" position="-501"/>
-  <sat name="-500 KA Intelsat 29E" flags="1" position="-502"/>
   <sat name="-530 C Intelsat 23" flags="1" position="-530">
     <transponder frequency="3743000" symbol_rate="17930000" polarization="1" fec_inner="7" system="1" modulation="2"/>
     <transponder frequency="3850000" symbol_rate="1050000" polarization="1" fec_inner="3" system="1" modulation="1"/>
@@ -770,6 +753,7 @@
     <transponder frequency="4510000" symbol_rate="2083000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="4515000" symbol_rate="4286000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="4520000" symbol_rate="2140000" polarization="1" fec_inner="3" system="0" modulation="1"/>
+    <transponder frequency="4551000" symbol_rate="2100000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4566000" symbol_rate="5083000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4614000" symbol_rate="2400000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4692000" symbol_rate="3720000" polarization="0" fec_inner="3" system="1" modulation="2"/>

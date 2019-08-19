@@ -264,7 +264,7 @@
     <transponder frequency="3726000" symbol_rate="19300000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3764000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3764000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="2"/>
-    <transponder frequency="3802000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3802000" symbol_rate="32720000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3802000" symbol_rate="30000000" polarization="1" fec_inner="6" system="1" modulation="2"/>
     <transponder frequency="3829000" symbol_rate="6142000" polarization="1" fec_inner="5" system="0" modulation="1"/>
     <transponder frequency="3843000" symbol_rate="30000000" polarization="1" fec_inner="6" system="1" modulation="2"/>

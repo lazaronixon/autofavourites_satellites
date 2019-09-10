@@ -917,6 +917,7 @@
   <sat name="-750 C StarOne C3" flags="1" position="-750">
     <transponder frequency="3629000" symbol_rate="5000000" polarization="0" fec_inner="0" system="0" modulation="1"/>
     <transponder frequency="3646000" symbol_rate="3563000" polarization="0" fec_inner="3" system="0" modulation="1"/>
+    <transponder frequency="3655000" symbol_rate="3333000" polarization="0" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="3684000" symbol_rate="2500000" polarization="0" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3684000" symbol_rate="2083000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3690000" symbol_rate="5000000" polarization="0" fec_inner="7" system="1" modulation="2"/>

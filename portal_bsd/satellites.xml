@@ -98,7 +98,7 @@
   <sat name="-80 C Eutelsat 8 West B" flags="1" position="-80">
     <transponder frequency="3722000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3758000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3790000" symbol_rate="1750000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3790000" symbol_rate="1750000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3804000" symbol_rate="2200000" polarization="1" fec_inner="7" system="1" modulation="2"/>
     <transponder frequency="3807000" symbol_rate="3250000" polarization="1" fec_inner="4" system="1" modulation="1"/>
     <transponder frequency="3811000" symbol_rate="2200000" polarization="1" fec_inner="0" system="1" modulation="2"/>
@@ -553,7 +553,7 @@
     <transponder frequency="4092000" symbol_rate="5000000" polarization="0" fec_inner="4" system="1" modulation="1"/>
     <transponder frequency="4093000" symbol_rate="3617000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="4097000" symbol_rate="4166000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="4100000" symbol_rate="8400000" polarization="0" fec_inner="7" system="1" modulation="2"/>
+    <transponder frequency="4100000" symbol_rate="7917000" polarization="0" fec_inner="7" system="1" modulation="2"/>
     <transponder frequency="4101000" symbol_rate="2222000" polarization="1" fec_inner="6" system="1" modulation="1"/>
     <transponder frequency="4104000" symbol_rate="4000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4107000" symbol_rate="1300000" polarization="0" fec_inner="3" system="1" modulation="2"/>

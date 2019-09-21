@@ -122,7 +122,12 @@
   <sat name="-80 KU Eutelsat 8 West B" flags="1" position="-81">
     <transponder frequency="10960000" symbol_rate="3255000" polarization="0" fec_inner="0" system="0" modulation="1"/>
     <transponder frequency="10965000" symbol_rate="3200000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="10986000" symbol_rate="1667000" polarization="0" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="11008000" symbol_rate="2500000" polarization="0" fec_inner="1" system="0" modulation="1"/>
+    <transponder frequency="11026000" symbol_rate="6000000" polarization="0" fec_inner="0" system="0" modulation="1"/>
+    <transponder frequency="11129000" symbol_rate="18917000" polarization="0" fec_inner="0" system="1" modulation="2"/>
+    <transponder frequency="11457000" symbol_rate="9643000" polarization="0" fec_inner="0" system="0" modulation="1"/>
+    <transponder frequency="11504000" symbol_rate="10000000" polarization="0" fec_inner="0" system="1" modulation="1"/>
   </sat>
   <sat name="-110 C Express AM44" flags="1" position="-110">
     <transponder frequency="3662000" symbol_rate="10808000" polarization="1" fec_inner="1" system="0" modulation="1"/>

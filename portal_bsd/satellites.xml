@@ -125,7 +125,6 @@
     <transponder frequency="10986000" symbol_rate="1667000" polarization="0" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="11008000" symbol_rate="2500000" polarization="0" fec_inner="1" system="0" modulation="1"/>
     <transponder frequency="11026000" symbol_rate="6000000" polarization="0" fec_inner="0" system="0" modulation="1"/>
-    <transponder frequency="11129000" symbol_rate="18917000" polarization="0" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="11457000" symbol_rate="9643000" polarization="0" fec_inner="0" system="0" modulation="1"/>
     <transponder frequency="11504000" symbol_rate="10000000" polarization="0" fec_inner="0" system="1" modulation="1"/>
   </sat>

@@ -959,6 +959,7 @@
     <transponder frequency="3735000" symbol_rate="5833000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3747000" symbol_rate="6250000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3750000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3755000" symbol_rate="4532000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3756000" symbol_rate="3750000" polarization="1" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="3760000" symbol_rate="4583000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3765000" symbol_rate="4170000" polarization="1" fec_inner="3" system="1" modulation="1"/>

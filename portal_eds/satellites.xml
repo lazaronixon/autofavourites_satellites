@@ -910,7 +910,7 @@
     <transponder frequency="4510000" symbol_rate="2082000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="4515000" symbol_rate="4285000" polarization="0" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="4518000" symbol_rate="2141000" polarization="1" fec_inner="3" system="0" modulation="1"/>
-    <transponder frequency="4551000" symbol_rate="2100000" polarization="1" fec_inner="4" system="1" modulation="2"/>
+    <transponder frequency="4551000" symbol_rate="2100000" polarization="1" fec_inner="4" system="1" modulation="1"/>
     <transponder frequency="4560000" symbol_rate="45000000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="4566000" symbol_rate="5083000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4614000" symbol_rate="2400000" polarization="0" fec_inner="3" system="1" modulation="2"/>

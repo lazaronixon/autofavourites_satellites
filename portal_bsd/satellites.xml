@@ -78,6 +78,7 @@
     <transponder frequency="4009000" symbol_rate="3350000" polarization="0" fec_inner="3" system="1" modulation="1"/>
     <transponder frequency="4020000" symbol_rate="1600000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4030000" symbol_rate="3413000" polarization="1" fec_inner="2" system="1" modulation="2"/>
+    <transponder frequency="4114000" symbol_rate="3330000" polarization="1" fec_inner="0" system="1" modulation="1"/>
   </sat>
   <sat name="-30 KU ABS 3A" flags="1" position="-31">
     <transponder frequency="11130000" symbol_rate="30000000" polarization="0" fec_inner="7" system="1" modulation="2"/>

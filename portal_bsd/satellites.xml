@@ -636,7 +636,6 @@
     <transponder frequency="3925000" symbol_rate="3750000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3940000" symbol_rate="5000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3960000" symbol_rate="3750000" polarization="0" fec_inner="2" system="1" modulation="2"/>
-    <transponder frequency="3964000" symbol_rate="3750000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3970000" symbol_rate="8750000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3980000" symbol_rate="3333000" polarization="0" fec_inner="0" system="0" modulation="1"/>
     <transponder frequency="3997000" symbol_rate="2083000" polarization="0" fec_inner="3" system="1" modulation="2"/>
@@ -667,7 +666,6 @@
     <transponder frequency="11095000" symbol_rate="31000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="11135000" symbol_rate="30000000" polarization="0" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="11135000" symbol_rate="30000000" polarization="1" fec_inner="3" system="0" modulation="1"/>
-    <transponder frequency="11165000" symbol_rate="13000000" polarization="0" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="11175000" symbol_rate="31000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="11185000" symbol_rate="15800000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="11222000" symbol_rate="28888000" polarization="0" fec_inner="3" system="0" modulation="1"/>
@@ -1077,6 +1075,7 @@
   </sat>
   <sat name="-1070 C Anik G1" flags="1" position="-1070"/>
   <sat name="-1070 KU Anik G1" flags="1" position="-1071">
+    <transponder frequency="11750000" symbol_rate="4166000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11758000" symbol_rate="11910000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="11777000" symbol_rate="2500000" polarization="0" fec_inner="3" system="1" modulation="1"/>
   </sat>

@@ -107,7 +107,7 @@
   <sat name="-80 C Eutelsat 8 West B" flags="1" position="-80">
     <transponder frequency="3726000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3762000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3789000" symbol_rate="1750000" polarization="1" fec_inner="5" system="1" modulation="2"/>
+    <transponder frequency="3789000" symbol_rate="1750000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3801000" symbol_rate="2200000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3803000" symbol_rate="5292000" polarization="1" fec_inner="4" system="1" modulation="1"/>
     <transponder frequency="3810000" symbol_rate="2200000" polarization="1" fec_inner="3" system="1" modulation="2"/>

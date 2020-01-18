@@ -944,8 +944,8 @@
     <transponder frequency="3835000" symbol_rate="4166000" polarization="0" fec_inner="7" system="1" modulation="2"/>
     <transponder frequency="3840000" symbol_rate="3333000" polarization="0" fec_inner="5" system="1" modulation="1"/>
     <transponder frequency="3844000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3852000" symbol_rate="7500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3854000" symbol_rate="4583000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3855000" symbol_rate="7500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3858000" symbol_rate="3750000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3863000" symbol_rate="3209000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3865000" symbol_rate="5000000" polarization="0" fec_inner="3" system="1" modulation="2"/>

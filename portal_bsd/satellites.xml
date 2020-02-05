@@ -38,14 +38,16 @@
   <sat name="30 C Eutelsat 3B" flags="1" position="30">
     <transponder frequency="3659000" symbol_rate="2900000" polarization="1" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="3666000" symbol_rate="2269000" polarization="1" fec_inner="2" system="1" modulation="2"/>
-    <transponder frequency="3668000" symbol_rate="1547000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3696000" symbol_rate="2140000" polarization="1" fec_inner="0" system="0" modulation="1"/>
     <transponder frequency="3716000" symbol_rate="1917000" polarization="1" fec_inner="0" system="1" modulation="2"/>
+    <transponder frequency="3727000" symbol_rate="26667000" polarization="1" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="3728000" symbol_rate="16835000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3739000" symbol_rate="2222000" polarization="1" fec_inner="2" system="0" modulation="1"/>
     <transponder frequency="3778000" symbol_rate="3200000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3797000" symbol_rate="2442000" polarization="1" fec_inner="2" system="0" modulation="1"/>
-    <transponder frequency="4009000" symbol_rate="3450000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="4011000" symbol_rate="3450000" polarization="1" fec_inner="3" system="1" modulation="1"/>
+    <transponder frequency="4063000" symbol_rate="33900000" polarization="1" fec_inner="1" system="1" modulation="1"/>
+    <transponder frequency="4099000" symbol_rate="33900000" polarization="1" fec_inner="1" system="1" modulation="1"/>
     <transponder frequency="4131000" symbol_rate="1100000" polarization="1" fec_inner="3" system="0" modulation="1"/>
   </sat>
   <sat name="30 KU Eutelsat 3B" flags="1" position="31"/>

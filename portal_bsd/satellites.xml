@@ -399,7 +399,7 @@
     <transponder frequency="11670000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
   </sat>
   <sat name="-430 KA Intelsat 11, SKY Brasil 1" flags="1" position="-432"/>
-  <sat name="-450 C Intelsat 14, Echostar XXIII" flags="1" position="-450">
+  <sat name="-450 C Intelsat 14" flags="1" position="-450">
     <transponder frequency="3733000" symbol_rate="4812000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3735000" symbol_rate="27000000" polarization="0" fec_inner="7" system="1" modulation="2"/>
     <transponder frequency="3738000" symbol_rate="2666000" polarization="1" fec_inner="3" system="0" modulation="1"/>
@@ -433,7 +433,7 @@
     <transponder frequency="4186000" symbol_rate="4960000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="4193000" symbol_rate="2075000" polarization="0" fec_inner="3" system="0" modulation="1"/>
   </sat>
-  <sat name="-450 KU Intelsat 14, Echostar XXIII" flags="1" position="-451">
+  <sat name="-450 KU Intelsat 14" flags="1" position="-451">
     <transponder frequency="11795000" symbol_rate="2500000" polarization="0" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="11807000" symbol_rate="2500000" polarization="0" fec_inner="0" system="0" modulation="1"/>
     <transponder frequency="11816000" symbol_rate="2500000" polarization="0" fec_inner="0" system="0" modulation="1"/>
@@ -442,7 +442,6 @@
     <transponder frequency="11914000" symbol_rate="6665000" polarization="0" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="11929000" symbol_rate="3200000" polarization="0" fec_inner="0" system="1" modulation="2"/>
   </sat>
-  <sat name="-450 KA Intelsat 14, Echostar XXIII" flags="1" position="-452"/>
   <sat name="-470 C SES 14" flags="1" position="-470">
     <transponder frequency="3790000" symbol_rate="7120000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3833000" symbol_rate="15000000" polarization="1" fec_inner="2" system="1" modulation="2"/>

@@ -897,6 +897,7 @@
     <transponder frequency="3949000" symbol_rate="3750000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3954000" symbol_rate="6666000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="3967000" symbol_rate="6665000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="3980000" symbol_rate="6022000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3994000" symbol_rate="6022000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="4045000" symbol_rate="651000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="4048000" symbol_rate="3330000" polarization="1" fec_inner="3" system="0" modulation="1"/>

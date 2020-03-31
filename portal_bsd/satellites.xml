@@ -21,12 +21,12 @@
     <transponder frequency="4038000" symbol_rate="2220000" polarization="1" fec_inner="0" system="1" modulation="2"/>
   </sat>
   <sat name="40 C SES 5" flags="1" position="40">
-    <transponder frequency="3663000" symbol_rate="5300000" polarization="1" fec_inner="0" system="1" modulation="2"/>
+    <transponder frequency="3663000" symbol_rate="5300000" polarization="1" fec_inner="2" system="1" modulation="1"/>
     <transponder frequency="3685000" symbol_rate="3453000" polarization="1" fec_inner="7" system="1" modulation="1"/>
     <transponder frequency="3692000" symbol_rate="1575000" polarization="1" fec_inner="8" system="1" modulation="1"/>
     <transponder frequency="3696000" symbol_rate="1515000" polarization="1" fec_inner="7" system="1" modulation="1"/>
     <transponder frequency="3701000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3711000" symbol_rate="1540000" polarization="1" fec_inner="0" system="1" modulation="2"/>
+    <transponder frequency="3711000" symbol_rate="1540000" polarization="1" fec_inner="4" system="1" modulation="1"/>
     <transponder frequency="3714000" symbol_rate="1725000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3800000" symbol_rate="27500000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3844000" symbol_rate="1162000" polarization="1" fec_inner="3" system="1" modulation="2"/>
@@ -36,7 +36,6 @@
   </sat>
   <sat name="40 KU SES 5" flags="1" position="41"/>
   <sat name="30 C Eutelsat 3B" flags="1" position="30">
-    <transponder frequency="3659000" symbol_rate="2900000" polarization="1" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="3727000" symbol_rate="26667000" polarization="1" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="3728000" symbol_rate="16835000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="4011000" symbol_rate="3450000" polarization="1" fec_inner="3" system="1" modulation="1"/>

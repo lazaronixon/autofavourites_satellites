@@ -932,22 +932,6 @@
     <transponder frequency="12185000" symbol_rate="4142000" polarization="1" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="12191000" symbol_rate="4142000" polarization="0" fec_inner="2" system="1" modulation="2"/>
   </sat>
-  <sat name="-780 C Venesat/Simon Bolivar" flags="1" position="-780">
-    <transponder frequency="3838000" symbol_rate="7500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3862000" symbol_rate="2963000" polarization="1" fec_inner="3" system="0" modulation="1"/>
-    <transponder frequency="3875000" symbol_rate="5000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="3886000" symbol_rate="23000000" polarization="1" fec_inner="1" system="0" modulation="1"/>
-    <transponder frequency="3909000" symbol_rate="3228000" polarization="1" fec_inner="0" system="0" modulation="1"/>
-    <transponder frequency="3921000" symbol_rate="3200000" polarization="1" fec_inner="0" system="1" modulation="2"/>
-    <transponder frequency="3951000" symbol_rate="3100000" polarization="1" fec_inner="3" system="0" modulation="1"/>
-    <transponder frequency="4006000" symbol_rate="27000000" polarization="1" fec_inner="4" system="1" modulation="2"/>
-    <transponder frequency="4045000" symbol_rate="28450000" polarization="1" fec_inner="0" system="0" modulation="1"/>
-    <transponder frequency="4117000" symbol_rate="11882000" polarization="0" fec_inner="3" system="1" modulation="2"/>
-  </sat>
-  <sat name="-780 KU Venesat/Simon Bolivar" flags="1" position="-781">
-    <transponder frequency="11535000" symbol_rate="4340000" polarization="0" fec_inner="3" system="0" modulation="1"/>
-  </sat>
-  <sat name="-780 KA Venesat/Simon Bolivar" flags="1" position="-782"/>
   <sat name="-810 C ARSAT-2" flags="1" position="-810">
     <transponder frequency="3826000" symbol_rate="0" polarization="0" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="3850000" symbol_rate="13500000" polarization="0" fec_inner="3" system="1" modulation="2"/>

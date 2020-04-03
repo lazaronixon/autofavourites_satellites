@@ -691,8 +691,10 @@
     <transponder frequency="4554000" symbol_rate="2083000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4566000" symbol_rate="5083000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4614000" symbol_rate="2400000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="4686000" symbol_rate="7074000" polarization="1" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="4692000" symbol_rate="3720000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4698000" symbol_rate="6666000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="4704000" symbol_rate="7074000" polarization="1" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="4705000" symbol_rate="5000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4712000" symbol_rate="4780000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4770000" symbol_rate="45000000" polarization="1" fec_inner="3" system="1" modulation="2"/>

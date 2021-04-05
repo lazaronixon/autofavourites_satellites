@@ -640,7 +640,7 @@
     <transponder frequency="3732000" symbol_rate="75009860000" polarization="0" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="3734000" symbol_rate="5000000" polarization="0" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="3736000" symbol_rate="5000000" polarization="1" fec_inner="0" system="1" modulation="1"/>
-    <transponder frequency="3743000" symbol_rate="5714000" polarization="1" fec_inner="0" system="1" modulation="1"/>
+    <transponder frequency="3741000" symbol_rate="50005714000" polarization="0" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="3750000" symbol_rate="7200000" polarization="1" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="3752000" symbol_rate="5000000" polarization="0" fec_inner="0" system="1" modulation="1"/>
     <transponder frequency="3758000" symbol_rate="2963000" polarization="0" fec_inner="0" system="0" modulation="1"/>

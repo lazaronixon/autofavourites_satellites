@@ -697,6 +697,7 @@
     <transponder frequency="4072000" symbol_rate="2080000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4086000" symbol_rate="3750000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4126000" symbol_rate="7500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="4145000" symbol_rate="7500000" polarization="1" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="4170000" symbol_rate="2500000" polarization="0" fec_inner="2" system="1" modulation="2"/>
   </sat>
   <sat name="-650 KU StarOne C1 " flags="1" position="-651">

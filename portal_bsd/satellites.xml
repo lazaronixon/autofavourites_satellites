@@ -147,16 +147,15 @@
   <sat name="-180 C Intelsat 37e" flags="1" position="-180">
     <transponder frequency="3760000" symbol_rate="7570000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3767000" symbol_rate="2494000" polarization="1" fec_inner="2" system="1" modulation="2"/>
-    <transponder frequency="3770000" symbol_rate="3750000" polarization="1" fec_inner="2" system="1" modulation="2"/>
+    <transponder frequency="3770000" symbol_rate="4834000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="3778000" symbol_rate="3993000" polarization="1" fec_inner="4" system="1" modulation="2"/>
-    <transponder frequency="4133000" symbol_rate="5750000" polarization="1" fec_inner="1" system="0" modulation="1"/>
-    <transponder frequency="4141000" symbol_rate="5750000" polarization="1" fec_inner="1" system="0" modulation="1"/>
+    <transponder frequency="4132000" symbol_rate="2060000" polarization="1" fec_inner="0" system="1" modulation="2"/>
   </sat>
   <sat name="-180 KU Intelsat 37e" flags="1" position="-181"/>
   <sat name="-180 KA Intelsat 37e" flags="1" position="-182"/>
   <sat name="-220 C SES 4" flags="1" position="-220">
     <transponder frequency="3697000" symbol_rate="2500000" polarization="1" fec_inner="2" system="0" modulation="1"/>
-    <transponder frequency="3970000" symbol_rate="3413000" polarization="1" fec_inner="3" system="0" modulation="1"/>
+    <transponder frequency="3970000" symbol_rate="3333000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="3974000" symbol_rate="3200000" polarization="1" fec_inner="4" system="1" modulation="2"/>
     <transponder frequency="3980000" symbol_rate="5833000" polarization="1" fec_inner="4" system="1" modulation="1"/>
     <transponder frequency="4006000" symbol_rate="5730000" polarization="1" fec_inner="7" system="1" modulation="2"/>

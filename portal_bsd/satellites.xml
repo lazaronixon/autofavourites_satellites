@@ -994,8 +994,8 @@
     <transponder frequency="4045000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4077000" symbol_rate="800000" polarization="1" fec_inner="3" system="0" modulation="1"/>
     <transponder frequency="4100000" symbol_rate="34285000" polarization="1" fec_inner="8" system="1" modulation="1"/>
-    <transponder frequency="4151000" symbol_rate="2500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4155000" symbol_rate="5000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
+    <transponder frequency="4188000" symbol_rate="2500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
   </sat>
   <sat name="-840 KU StarOne D1" flags="1" position="-841"/>
   <sat name="-840 KA StarOne D1" flags="1" position="-842"/>
@@ -1061,7 +1061,7 @@
     <transponder frequency="3987000" symbol_rate="7500000" polarization="1" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="4012000" symbol_rate="11600000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4038000" symbol_rate="833000" polarization="0" fec_inner="3" system="1" modulation="2"/>
-    <transponder frequency="4040000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="4060000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4065000" symbol_rate="3080000" polarization="1" fec_inner="3" system="1" modulation="2"/>
     <transponder frequency="4067000" symbol_rate="3255000" polarization="0" fec_inner="0" system="1" modulation="2"/>
     <transponder frequency="4070000" symbol_rate="6490000" polarization="1" fec_inner="3" system="1" modulation="2"/>

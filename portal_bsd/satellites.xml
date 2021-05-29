@@ -1056,6 +1056,7 @@
   </sat>
   <sat name="-1070 C Anik G1" flags="1" position="-1070"/>
   <sat name="-1070 KU Anik G1" flags="1" position="-1071">
+    <transponder frequency="12000000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="1"/>
     <transponder frequency="12017000" symbol_rate="2500000" polarization="1" fec_inner="3" system="1" modulation="1"/>
     <transponder frequency="12155000" symbol_rate="22500000" polarization="0" fec_inner="4" system="1" modulation="1"/>
     <transponder frequency="12166000" symbol_rate="10680000" polarization="1" fec_inner="0" system="1" modulation="1"/>

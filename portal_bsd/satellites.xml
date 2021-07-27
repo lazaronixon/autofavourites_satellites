@@ -640,7 +640,7 @@
     <transponder frequency="11220000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="11221000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
     <transponder frequency="11263000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
-    <transponder frequency="11445000" symbol_rate="2500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+    <transponder frequency="11445000" symbol_rate="2500000" polarization="1" fec_inner="2" system="1" modulation="2"/>
   </sat>
   <sat name="-650 KA Eutelsat 65 West A" flags="1" position="-652"/>
   <sat name="-700 C StarOne C2, StarOne C4" flags="1" position="-700">
